@@ -21,3 +21,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=miranamer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miranamer&theme=radical&hide_border=false)<br/>
+
+
+[![An image of @miranamer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miranamer)](https://holopin.io/@miranamer)
