@@ -19,7 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miranamer&show_icons=true&locale=en&layout=compact" alt="miranamer" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=miranamer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miranamer&theme=radical&hide_border=false)<br/>
 
 
